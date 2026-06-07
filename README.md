@@ -69,13 +69,38 @@
  
 ---
  
-## 📊 GitHub Stats
- 
-![Prajakta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true)
- 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true)
- 
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajakta128&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</div>
+
+---
+
+### 🚀 Coding Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajakta128&theme=tokyo-night&hide_border=true"/>
+
+</div>
+
 ---
  
 ## 🌱 Currently Learning
