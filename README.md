@@ -71,14 +71,11 @@
  
 ## 📊 GitHub Stats
  
-<div align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-<div align="center">
-![GitHub Streak](https://streak-stats.demolab.com?user=prajakta128&theme=tokyonight&hide_border=true)
+![Prajakta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true)
  
-</div>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true)
+ 
 ---
  
 ## 🌱 Currently Learning
@@ -98,8 +95,8 @@ skills_in_progress = [
  
 <div align="center">
 [![GitHub](https://img.shields.io/badge/GitHub-prajakta128-181717?style=for-the-badge&logo=github)](https://github.com/prajakta128)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/prajakta-g-kamble/))
+[![Email](https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail)](mailto:prajakta.gorakh.kamble@gmail.com)
  
 </div>
 ---
