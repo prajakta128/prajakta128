@@ -92,20 +92,34 @@ skills_in_progress = [
 ---
  
 ## 🤝 Let's Connect
- 
-<div align="center">
-[![GitHub](https://img.shields.io/badge/GitHub-prajakta128-181717?style=for-the-badge&logo=github)](https://github.com/prajakta128)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)]((https://www.linkedin.com/in/prajakta-g-kamble/))
-[![Email](https://img.shields.io/badge/Email-Say%20Hi!-EA4335?style=for-the-badge&logo=gmail)](mailto:prajakta.gorakh.kamble@gmail.com)
- 
-</div>
+
+<p align="center">
+
+<a href="https://github.com/prajakta128">
+  <img src="https://img.shields.io/badge/GitHub-prajakta128-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/prajakta-kamble/">
+  <img src="https://img.shields.io/badge/LinkedIn-Prajakta%20Kamble-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:prajakta.gorakh.kamble@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+</a>
+
+</p>
+
 ---
- 
+
 <div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=100&section=footer&animation=fadeIn"/>
-*"Code is like humor. When you have to explain it, it's bad."* 💻
- 
-![Profile Views](https://komarev.com/ghpvc/?username=prajakta128&color=blueviolet&style=flat-square)
- 
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
+
+### 💭 Developer Quote
+
+> **"Code is like humor. When you have to explain it, it's bad."** 💻
+
+<img src="https://komarev.com/ghpvc/?username=prajakta128&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
+
 </div>
  
