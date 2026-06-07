@@ -74,33 +74,28 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=prajakta128&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-### 🚀 Coding Activity
+## 🔥 Contribution Activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prajakta128&theme=tokyo-night&hide_border=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajakta128&theme=tokyo-night&hide_border=true&area=true"/>
 
 </div>
+
 
 ---
  
