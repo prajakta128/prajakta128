@@ -1,7 +1,7 @@
 
 <div align="center">
 <!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Prajakta%20G%20Kamble&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=55&descSize=16&animation=fadeIn&fontColor=fff"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Prajakta%20G%20Kamble&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%2a0Enthusiast%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=55&descSize=16&animation=fadeIn&fontColor=fff"/>
 </div>
 ---
  
@@ -39,6 +39,7 @@
 | [🔍 anomaly_detector](https://github.com/prajakta128/anomaly_detector) | Anomaly detection for data streams | `Python` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
 | [📊 analysis-platform](https://github.com/prajakta128/analysis-platform) | Data analysis & visualization dashboard | `CSS` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
 | [🗺️ e-VS](https://github.com/prajakta128/e-VS) | Electronic verification system | `TypeScript` | ![Building](https://img.shields.io/badge/-Building-blue?style=flat-square) |
+| [🚦 UrbanPulse](https://github.com/prajakta128/UrbanPulse) | Intelligent urban traffic optimization platform with Federated Learning, Blockchain verification, and real-time analytics dashboard | `Python` `Flask` `Federated Learning` `Blockchain` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
  
 ---
  
