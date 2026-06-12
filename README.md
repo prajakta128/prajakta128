@@ -98,18 +98,7 @@
 
 
 ---
- 
-## 🌱 Currently Learning
- 
-```python
-skills_in_progress = [
-    "Advanced Machine Learning (transformers, LLMs)",
-    "System Design & Scalable Architecture",
-    "Docker & Kubernetes",
-    "TypeScript + Next.js"
-]
-```
- 
+
 ---
  
 ## 🤝 Let's Connect
