@@ -14,9 +14,10 @@
   "role": "Full Stack Developer",
   "location": "Pune, India 🇮🇳",
   "currently_building": [
-    "password_ML_model  — ML-powered password strength analyzer",
-    "e-Voting-system    — Secure digital voting platform",
-    "anomaly_detector   — Real-time anomaly detection with Python"
+  "Health Platform — AI-powered Healthcare & Wellness Hub",
+  "password_ML_model — ML-powered password strength analyzer",
+  "e-Voting-system — Secure digital voting platform",
+  "anomaly_detector — Real-time anomaly detection with Python"
   ],
   "interests": [
     "Machine Learning",
