@@ -32,15 +32,15 @@
  
 ## 🚀 Featured Projects
  
+
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| [🔐 password_ML_model](https://github.com/prajakta128/password_ML_model) | ML-based password strength predictor | `JavaScript` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| [🗳️ e-Voting-system](https://github.com/prajakta128/e-Voting-system) | End-to-end secure e-voting platform | `TypeScript` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| [🔍 anomaly_detector](https://github.com/prajakta128/anomaly_detector) | Anomaly detection for data streams | `Python` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| [📊 analysis-platform](https://github.com/prajakta128/analysis-platform) | Data analysis & visualization dashboard | `CSS` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| [🗺️ e-VS](https://github.com/prajakta128/e-VS) | Electronic verification system | `TypeScript` | ![Building](https://img.shields.io/badge/-Building-blue?style=flat-square) |
-| [🚦 UrbanPulse](https://github.com/prajakta128/UrbanPulse) | Intelligent urban traffic optimization platform with Federated Learning, Blockchain verification, and real-time analytics dashboard | `Python` `Flask` `Federated Learning` `Blockchain` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
- 
+| [🏥 Health Platform – AI-Powered Healthcare & Wellness Hub](https://github.com/prajakta128/shiny-couscous) | Comprehensive healthcare platform featuring AI Health Assistant, Hospital Finder, Government Health Schemes, Medicine & Appointment Reminders, Mental Wellness resources, and healthcare education. | `Python` `Flask` `HTML` `CSS` `JavaScript` | ![Featured](https://img.shields.io/badge/-Featured-success?style=flat-square) |
+| [🚦 UrbanPulse](https://github.com/prajakta128/UrbanPulse) | Intelligent urban traffic optimization platform with Federated Learning, Blockchain verification, and real-time analytics dashboard. | `Python` `Flask` `Federated Learning` `Blockchain` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
+| [🔐 password_ML_model](https://github.com/prajakta128/password_ML_model) | ML-based password strength predictor with intelligent password analysis. | `Python` `Machine Learning` `JavaScript` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
+| [🗳️ e-Voting-system](https://github.com/prajakta128/e-Voting-system) | Secure end-to-end digital voting platform with authentication and election management. | `TypeScript` `React` `Node.js` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
+| [🔍 anomaly_detector](https://github.com/prajakta128/anomaly_detector) | Real-time anomaly detection system using Machine Learning algorithms. | `Python` `Scikit-learn` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
+| [📊 analysis-platform](https://github.com/prajakta128/analysis-platform) | Interactive data analysis and visualization dashboard. | `HTML` `CSS` `JavaScript` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
 ---
  
 ## 🛠️ Tech Arsenal
