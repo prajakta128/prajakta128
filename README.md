@@ -3,7 +3,7 @@
 <!-- Animated Header Banner -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Prajakta%20G%20Kamble&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=55&descSize=16&animation=fadeIn&fontColor=fff"/>
 </div>
----
+
  
 ## 👩‍💻 whoami
  
