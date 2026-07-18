@@ -131,13 +131,5 @@
 ---
 
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer"/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-### 💭 Developer Quote
-
-> **"Code is like humor. When you have to explain it, it's bad."** 💻
-
-<img src="https://komarev.com/ghpvc/?username=prajakta128&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
-
-</div>this is my readme file
