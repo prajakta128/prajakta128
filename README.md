@@ -1,94 +1,107 @@
-
 <div align="center">
-<!-- Animated Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Prajakta%20G%20Kamble&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%E2%80%A2%20ML%20Enthusiast%20%E2%80%A2%20Open%20Source%20Builder&descAlignY=55&descSize=16&animation=fadeIn&fontColor=fff"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Prajakta%20G%20Kamble&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20ML%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=56&descSize=18&animation=fadeIn&fontColor=ffffff"/>
+
+<br>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=4FA3FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Python+Developer;Flask+%7C+React+Developer;Building+AI-Powered+Applications"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20Full--Time-success?style=for-the-badge"/>
+
+<img src="https://komarev.com/ghpvc/?username=prajakta128&style=for-the-badge&color=blueviolet"/>
+
 </div>
- 
-## 👩‍💻 whoami
- 
+
+---
+
+# 👩‍💻 About Me
+
 ```json
 {
   "name": "Prajakta G Kamble",
   "username": "prajakta128",
   "role": "Full Stack Developer",
   "location": "Pune, India 🇮🇳",
+
   "currently_building": [
-  "Health Platform — AI-powered Healthcare & Wellness Hub",
-  "password_ML_model — ML-powered password strength analyzer",
-  "e-Voting-system — Secure digital voting platform",
-  "anomaly_detector — Real-time anomaly detection with Python"
+    "🏥 AI-Powered Healthcare Platform",
+    "🔐 ML Password Strength Analyzer",
+    "🗳️ Secure E-Voting System",
+    "📊 Real-Time Anomaly Detection"
   ],
+
   "interests": [
     "Machine Learning",
-    "Web Applications",
+    "Artificial Intelligence",
+    "Web Development",
     "Open Source",
     "Data Analysis"
   ],
-  "open_to": "Collaborations, Internships & Open Source Projects"
+
+  "open_to": [
+    "Internships",
+    "Open Source Collaboration",
+    "Hackathons"
+  ],
+
+  "fun_fact": "I love turning ideas into real-world applications 🚀"
 }
 ```
- 
----
- 
-## 🚀 Featured Projects
- 
 
-| Project | Description | Stack | Status |
-|--------|-------------|-------|--------|
-| [🏥 Health Platform – AI-Powered Healthcare & Wellness Hub](https://github.com/prajakta128/shiny-couscous) | Comprehensive healthcare platform featuring AI Health Assistant, Hospital Finder, Government Health Schemes, Medicine & Appointment Reminders, Mental Wellness resources, and healthcare education. | `Python` `Flask` `HTML` `CSS` `JavaScript` | ![Featured](https://img.shields.io/badge/-Featured-success?style=flat-square) |
-| [🚦 UrbanPulse](https://github.com/prajakta128/UrbanPulse) | Intelligent urban traffic optimization platform with Federated Learning, Blockchain verification, and real-time analytics dashboard. | `Python` `Flask` `Federated Learning` `Blockchain` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
-| [🔐 password_ML_model](https://github.com/prajakta128/password_ML_model) | ML-based password strength predictor with intelligent password analysis. | `Python` `Machine Learning` `JavaScript` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
-| [🗳️ e-Voting-system](https://github.com/prajakta128/e-Voting-system) | Secure end-to-end digital voting platform with authentication and election management. | `TypeScript` `React` `Node.js` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| [🔍 anomaly_detector](https://github.com/prajakta128/anomaly_detector) | Real-time anomaly detection system using Machine Learning algorithms. | `Python` `Scikit-learn` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| [📊 analysis-platform](https://github.com/prajakta128/analysis-platform) | Interactive data analysis and visualization dashboard. | `HTML` `CSS` `JavaScript` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
 ---
- 
-## 🛠️ Tech Arsenal
- 
-**Languages**
- 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
-**Frameworks & Libraries**
- 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
- 
-**Tools & Platforms**
- 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+
+# 🚀 Featured Projects
+
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| [🏥 Health Platform](https://github.com/prajakta128/shiny-couscous) | AI-powered Healthcare & Wellness Hub | Flask • Python • HTML • CSS • JavaScript |
+| [🔐 Password ML Model](https://github.com/prajakta128/password_ML_model) | ML-powered Password Strength Analyzer | Python • Machine Learning |
+| [🗳️ E-Voting System](https://github.com/prajakta128/e-Voting-system) | Secure Digital Voting Platform | React • TypeScript • Node.js |
+| [📊 Anomaly Detector](https://github.com/prajakta128/anomaly_detecter) | Real-time Fraud Detection using ML | Python • Flask • Scikit-learn |
+
 ---
- 
-## 📊 GitHub Analytics
+
+# 💻 Tech Stack
+
+## Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,html,css"/>
+</p>
+
+## Frameworks & Libraries
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,tailwind"/>
+</p>
+
+## Database & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,git,github,vscode"/>
+</p>
+
+---
+
+# 📈 GitHub Statistics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</div>
+<br><br>
 
-<div align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 ---
 
-## 🔥 Contribution Activity
+# 📊 Contribution Graph
 
 <div align="center">
 
@@ -96,42 +109,64 @@
 
 </div>
 
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=prajakta128&theme=tokyonight&no-frame=true&margin-w=10&row=2&column=4"/>
+
+</div>
 
 ---
 
- 
+# 🌱 Currently Learning
 
+- Advanced Machine Learning
+- System Design
+- Backend Development
+- Cloud & DevOps
+- Open Source Development
 
 ---
- 
-## 🤝 Let's Connect
 
-<p align="center">
+# 🤝 Connect With Me
+
+<div align="center">
 
 <a href="https://github.com/prajakta128">
-  <img src="https://img.shields.io/badge/GitHub-prajakta128-181717?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/GitHub-prajakta128-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/prajakta-kamble/">
-  <img src="https://img.shields.io/badge/LinkedIn-Prajakta%20Kamble-0A66C2?style=for-the-badge&logo=linkedin" />
+<a href="https://www.linkedin.com/in/prajakta-g-kamble/">
+<img src="https://img.shields.io/badge/LinkedIn-Prajakta%20Kamble-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:prajakta.gorakh.kamble@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" />
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
 
-</p>
+<a href="https://leetcode.com/u/dsa_daily100/">
+<img src="https://img.shields.io/badge/LeetCode-dsa__daily100-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</div>
 
 ---
 
 <div align="center">
 
+## 💡 Developer Quote
+
+> **"First, solve the problem. Then, write the code." — John Johnson**
+
+<br>
+
+<img src="https://github-readme-quotes-bay.vercel.app/quote?theme=tokyonight&animation=grow_out_in"/>
+
+<br><br>
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer"/>
-
-### 💭 Developer Quote
-
-> **"Code is like humor. When you have to explain it, it's bad."** 💻
-
-<img src="https://komarev.com/ghpvc/?username=prajakta128&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
