@@ -7,10 +7,9 @@
 <div align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=4FA3FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Python+Developer;AI+Builder"/>
 
-<br><br>
-
+<br>
 </div>
- 
+</div>
 ## 👩‍💻 whoami
  
 ```json
