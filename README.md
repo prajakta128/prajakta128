@@ -1,7 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=220&section=header&text=Prajakta%20G%20Kamble&fontSize=50&fontAlignY=35&desc=Full%20Stack%20Developer%20•%20ML%20Enthusiast%20•%20Open%20Source%20Contributor&descAlignY=56&descSize=18&animation=fadeIn&fontColor=ffffff"/>
+<div align="center">
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Prajakta%20G%20Kamble&fontSize=48&fontAlignY=50&animation=fadeIn&fontColor=ffffff"/>
+
+</div>
 <br>
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=4FA3FF&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Python+Developer;Flask+%7C+React+Developer;Building+AI-Powered+Applications"/>
