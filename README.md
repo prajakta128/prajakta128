@@ -4,7 +4,15 @@
 <div align="center">
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Prajakta%20G%20Kamble&fontSize=48&fontAlignY=50&animation=fadeIn&fontColor=ffffff"/>
+<div align="center">
 
+<a href="https://github.com/prajakta128">
+<img src="https://img.shields.io/badge/Open%20to%20Work-Internships%20%26%20Full--Time-success?style=for-the-badge"/>
+</a>
+
+<img src="https://komarev.com/ghpvc/?username=prajakta128&style=for-the-badge&color=blue"/>
+
+</div>
 </div>
 </div>
  
