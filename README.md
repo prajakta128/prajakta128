@@ -1,17 +1,15 @@
-
 <div align="center">
-<!-- Animated Header Banner -->
-
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Prajakta%20G%20Kamble&fontSize=48&fontAlignY=50&animation=fadeIn&fontColor=ffffff"/>
-<div align="center">
+
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=4FA3FF&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;Machine+Learning+Enthusiast;Open+Source+Contributor;Python+Developer;AI+Builder"/>
 
 <br>
+
 </div>
-</div>
+
 ## 👩‍💻 whoami
- 
+
 ```json
 {
   "name": "Prajakta G Kamble",
@@ -19,10 +17,9 @@
   "role": "Full Stack Developer",
   "location": "Pune, India 🇮🇳",
   "currently_building": [
-  "Health Platform — AI-powered Healthcare & Wellness Hub",
-  "password_ML_model — ML-powered password strength analyzer",
-  "e-Voting-system — Secure digital voting platform",
-  "anomaly_detector — Real-time anomaly detection with Python"
+    "FinSight — AI-powered financial intelligence platform for MSMEs",
+    "PaperGrade AI — Handwritten exam grading with NVIDIA Nemotron",
+    "Health Platform — AI-powered Healthcare & Wellness Hub"
   ],
   "interests": [
     "Machine Learning",
@@ -33,49 +30,53 @@
   "open_to": "Collaborations, Internships & Open Source Projects"
 }
 ```
- 
+
 ---
- 
+
 ## 🚀 Featured Projects
- 
 
 | Project | Description | Stack | Status |
 |--------|-------------|-------|--------|
-| [🏥 Health Platform – AI-Powered Healthcare & Wellness Hub](https://github.com/prajakta128/shiny-couscous) | Comprehensive healthcare platform featuring AI Health Assistant, Hospital Finder, Government Health Schemes, Medicine & Appointment Reminders, Mental Wellness resources, and healthcare education. | `Python` `Flask` `HTML` `CSS` `JavaScript` | ![Featured](https://img.shields.io/badge/-Featured-success?style=flat-square) |
-| [🚦 UrbanPulse](https://github.com/prajakta128/UrbanPulse) | Intelligent urban traffic optimization platform with Federated Learning, Blockchain verification, and real-time analytics dashboard. | `Python` `Flask` `Federated Learning` `Blockchain` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
-| [🔐 password_ML_model](https://github.com/prajakta128/password_ML_model) | ML-based password strength predictor with intelligent password analysis. | `Python` `Machine Learning` `JavaScript` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
+| [💠 FinSight](https://github.com/prajakta128/Finsight_finally-) | Financial intelligence platform for MSMEs with expense tracking, risk detection, cash-flow forecasting, what-if simulation, invoice OCR and an AI Business Copilot. [Live Demo](https://youtu.be/_rRKMDO66Og) | `TypeScript` `React` `Node.js` `PostgreSQL` `Drizzle` | ![Featured](https://img.shields.io/badge/-Featured-success?style=flat-square) |
+| [📝 PaperGrade AI](https://github.com/prajakta128/PaperGrade-AI) | AI exam-grading workspace that extracts handwritten answers, grades them semantically with NVIDIA Nemotron, flags low-confidence marks for teacher review, and exports results to Excel. | `Python` `FastAPI` `React` `TypeScript` `NVIDIA Nemotron` | ![Featured](https://img.shields.io/badge/-Featured-success?style=flat-square) |
+| [🥗 FoodLens](https://github.com/prajakta128/foodlen) | Food-transparency app: scan barcodes or search products to see nutrition, allergens and health scores, compare items, and find healthier alternatives using Open Food Facts. | `React` `TypeScript` `FastAPI` `PostgreSQL` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
+| [🏥 Health Platform](https://github.com/prajakta128/shiny-couscous) | Healthcare hub with an AI Health Assistant, Hospital Finder, Government Health Schemes, medicine and appointment reminders, and mental wellness resources. | `Python` `Flask` `HTML` `CSS` `JavaScript` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
+| [🚦 UrbanPulse](https://github.com/prajakta128/UrbanPulse) | Urban traffic optimization platform with Federated Learning, Blockchain verification, and a real-time analytics dashboard. | `Python` `Flask` `Federated Learning` `Blockchain` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
 | [🗳️ e-Voting-system](https://github.com/prajakta128/e-Voting-system) | Secure end-to-end digital voting platform with authentication and election management. | `TypeScript` `React` `Node.js` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| [🔍 anomaly_detector](https://github.com/prajakta128/anomaly_detector) | Real-time anomaly detection system using Machine Learning algorithms. | `Python` `Scikit-learn` | ![Active](https://img.shields.io/badge/-Active-brightgreen?style=flat-square) |
-| [📊 analysis-platform](https://github.com/prajakta128/analysis-platform) | Interactive data analysis and visualization dashboard. | `HTML` `CSS` `JavaScript` | ![Completed](https://img.shields.io/badge/-Completed-success?style=flat-square) |
+
 ---
- 
+
 ## 🛠️ Tech Arsenal
- 
+
 **Languages**
- 
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
- 
+
 **Frameworks & Libraries**
- 
+
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
- 
+
 **Tools & Platforms**
- 
+
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
- 
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+
 ---
- 
+
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -102,14 +103,8 @@
 
 </div>
 
-
 ---
 
- 
-
-
----
- 
 ## 🤝 Let's Connect
 
 <p align="center">
@@ -132,4 +127,4 @@
 
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:36D1DC,100:5B86E5&height=120&section=footer"/>
-
+</div>
