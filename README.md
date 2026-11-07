@@ -80,17 +80,7 @@
 
 <div align="center">
 
-### 📈 Contribution Graph
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajakta128&theme=tokyo-night&hide_border=true&area=true" />
-
-### 💻 Open Source Contributions
-
 <img width="100%" src="https://github-stats-extended.vercel.app/api?username=prajakta128&show=prs_merged,prs_merged_percentage,reviews,prs_authored,issues_authored&show_icons=true&theme=tokyonight&hide_border=true" />
-
-### 🚀 Contribution Streak
-
-<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true" />
 
 </div>
 
