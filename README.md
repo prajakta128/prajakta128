@@ -76,63 +76,38 @@
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 
 ---
-
-## 📊 GitHub Analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prajakta128&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prajakta128&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<div align="center">
-
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
 ## 🔥 Contribution Activity
 
 <div align="center">
 
-### 📈 My GitHub Contributions
+### 📈 Contribution Graph
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=prajakta128&theme=tokyo-night&hide_border=true&area=true" />
 
-### 💻 GitHub Contribution Stats
+### 💻 Open Source Contributions
 
-<img width="49%" src="https://github-stats-extended.vercel.app/api?username=prajakta128&show=prs_merged,prs_merged_percentage,reviews,prs_authored,issues_authored&show_icons=true&theme=tokyonight&hide_border=true" />
+<img width="100%" src="https://github-stats-extended.vercel.app/api?username=prajakta128&show=prs_merged,prs_merged_percentage,reviews,prs_authored,issues_authored&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true" />
+### 🚀 Contribution Streak
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=prajakta128&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
-
-### 🚀 Open Source Contributions
 
 <div align="center">
 
-<a href="https://github.com/prajakta128?tab=repositories">
-<img src="https://img.shields.io/badge/GitHub-Explore%20My%20Projects-181717?style=for-the-badge&logo=github" />
-</a>
-
 <a href="https://github.com/prajakta128?tab=pulls">
-<img src="https://img.shields.io/badge/Pull%20Requests-View%20My%20PRs-238636?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20All%20Pull%20Requests-181717?style=for-the-badge&logo=github" />
 </a>
 
 <a href="https://github.com/prajakta128?tab=issues">
-<img src="https://img.shields.io/badge/Issues-View%20My%20Issues-8957e5?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/View%20All%20Issues-8957e5?style=for-the-badge&logo=github" />
 </a>
 
 </div>
 
-
----
 
 ## 🤝 Let's Connect
 
